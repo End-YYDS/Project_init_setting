@@ -1,0 +1,10 @@
+{
+  "hostname": "derrickdeMacBook-Pro-2.local",
+  "path": "/opt/CHM",
+  "password": "d856e3d75ff6efdca16346cc27f15d4b",
+  "kind": "192.168.2.144",
+  "tools": [
+    "prettier",
+    "eslint"
+  ]
+}
